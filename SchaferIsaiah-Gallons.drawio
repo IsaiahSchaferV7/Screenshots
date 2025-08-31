@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.2">
+  <diagram name="Page-1" id="9Wh1ikYND4b-k5RGD0zj">
+    <mxGraphModel dx="1186" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y3din2Iy91jtOgcRVHMO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-1" target="y3din2Iy91jtOgcRVHMO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="380" y="80" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-2" target="y3din2Iy91jtOgcRVHMO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-2" value="input total car gallons" style="shape=parallelogram;perimeter=parallelogramPerimeter;fixedSize=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="361" y="158" width="142.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-4" target="y3din2Iy91jtOgcRVHMO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-4" value="input total miles traveled" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="353" y="244" width="159" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-6" target="y3din2Iy91jtOgcRVHMO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-6" target="y3din2Iy91jtOgcRVHMO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-6" target="y3din2Iy91jtOgcRVHMO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-6" target="y3din2Iy91jtOgcRVHMO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-6" value="input car gallons left" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="361" y="336" width="142.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-8" value="Gallons use: Take total car gallons minus car gallons left" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="372.005" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-13" target="y3din2Iy91jtOgcRVHMO-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-13" value="Gallons Per Mile: Take total miles traveled divided by Gallons used" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="372.5" y="515" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-8" target="y3din2Iy91jtOgcRVHMO-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="490" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-16" value="Output Gallons per mile" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="614" width="154" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-19" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="379.51" y="710" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="y3din2Iy91jtOgcRVHMO-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="y3din2Iy91jtOgcRVHMO-16" target="y3din2Iy91jtOgcRVHMO-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="710" as="sourcePoint" />
+            <mxPoint x="450" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
