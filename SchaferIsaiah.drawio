@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 OPR/120.0.0.0" version="28.1.2">
   <diagram name="Page-1" id="hojNT7kb4RRz98BzCDtr">
-    <mxGraphModel>
+    <mxGraphModel dx="1008" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-1" target="8QfVRjbOyu1MiP0QhLd7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-1" value="start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="395" y="57" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-2" target="8QfVRjbOyu1MiP0QhLd7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-2" value="Input Hourly Wage" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-4" target="8QfVRjbOyu1MiP0QhLd7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-4" value="Input Hours Worked a day" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-6" target="8QfVRjbOyu1MiP0QhLd7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-6" value="Input Days Worked a Week" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-10" target="8QfVRjbOyu1MiP0QhLd7-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-10" value="Daily Wage: Take Hours Worked a day multiplied by Hourly Wage" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="360" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-12" target="8QfVRjbOyu1MiP0QhLd7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-12" value="Weekly Wage: Take Daily Wage multiplied by Days Worked a Week" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="460" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-14" target="8QfVRjbOyu1MiP0QhLd7-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-14" value="Monthly Wage: Take Weekly Wage multiplied by 4" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="380" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-16" value="Output Monthly Wage" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="365" y="640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-18" value="stop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="395" y="720" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8QfVRjbOyu1MiP0QhLd7-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8QfVRjbOyu1MiP0QhLd7-16" target="8QfVRjbOyu1MiP0QhLd7-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="770" as="sourcePoint" />
+            <mxPoint x="350" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
