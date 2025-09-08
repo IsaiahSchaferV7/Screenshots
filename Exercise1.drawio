@@ -4,97 +4,97 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-1" target="y3VTPcnfJfB9KkL5hkbG-2">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-1" target="y3VTPcnfJfB9KkL5hkbG-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="365" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-2" target="y3VTPcnfJfB9KkL5hkbG-12">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-2" target="y3VTPcnfJfB9KkL5hkbG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-2" value="Declarations:&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;string lastName&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-2" value="Declarations:&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;string lastName&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="365" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-12" target="y3VTPcnfJfB9KkL5hkbG-14">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-12" target="y3VTPcnfJfB9KkL5hkbG-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-12" value="Housekeeping" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-12" value="Housekeeping" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="365" y="229" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-14" target="y3VTPcnfJfB9KkL5hkbG-18">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-14" target="y3VTPcnfJfB9KkL5hkbG-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-14" value="detail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-14" value="detail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="365" y="318" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-18" target="y3VTPcnfJfB9KkL5hkbG-24">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-18" target="y3VTPcnfJfB9KkL5hkbG-24" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-18" value="endOfJob" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-18" value="endOfJob" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="365" y="411" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-24" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-24" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="365" y="512" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-25" target="y3VTPcnfJfB9KkL5hkbG-26">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-25" target="y3VTPcnfJfB9KkL5hkbG-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-25" value="Housekeeping" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-25" value="Housekeeping" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-26" value="output &quot;Please enter last name, enter ZZZZ to stop&lt;div&gt;input lastName&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-26" value="output &quot;Please enter last name, enter ZZZZ to stop&lt;div&gt;input lastName&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-55" y="130" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-28" value="return" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-28" value="return" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="55" y="258" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-26" target="y3VTPcnfJfB9KkL5hkbG-28">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-26" target="y3VTPcnfJfB9KkL5hkbG-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="510" as="sourcePoint" />
             <mxPoint x="630" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-30" value="detail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-30" value="detail" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
           <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-31" target="y3VTPcnfJfB9KkL5hkbG-34">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-31" target="y3VTPcnfJfB9KkL5hkbG-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-31" value="output &quot;Please enter number of rooms($10 each), and bathrooms ($15 each) to be cleaned&lt;div&gt;input numRooms&lt;/div&gt;&lt;div&gt;input numBathrooms&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-31" value="output &quot;Please enter number of rooms($10 each), and bathrooms ($15 each) to be cleaned&lt;div&gt;input numRooms&lt;/div&gt;&lt;div&gt;input numBathrooms&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-60" y="471" width="320" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-30" target="y3VTPcnfJfB9KkL5hkbG-31">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-30" target="y3VTPcnfJfB9KkL5hkbG-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="520" as="sourcePoint" />
             <mxPoint x="330" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-34" target="y3VTPcnfJfB9KkL5hkbG-36">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-34" target="y3VTPcnfJfB9KkL5hkbG-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-34" value="serviceCharge =&amp;nbsp; numRooms times 10 plus numBathrooms times 15 plus 40" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-34" value="serviceCharge =&amp;nbsp; numRooms times 10 plus numBathrooms times 15 plus 40" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="15" y="607" width="170" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-36" target="y3VTPcnfJfB9KkL5hkbG-38">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-36" target="y3VTPcnfJfB9KkL5hkbG-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-36" value="&lt;div&gt;output lastName &quot;Total due is&quot; serviceCharge &quot;to clean&quot; numRooms &quot;rooms and&quot; numBathrooms &quot;bathrooms.&quot;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;output &quot;Please endter last name, enter ZZZZ to stop:&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;input lastName&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-36" value="&lt;div&gt;output lastName &quot;Total due is&quot; serviceCharge &quot;to clean&quot; numRooms &quot;rooms and&quot; numBathrooms &quot;bathrooms.&quot;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;output &quot;Please endter last name, enter ZZZZ to stop:&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;&lt;span style=&quot;white-space:pre&quot;&gt;&#x9;&lt;/span&gt;input lastName&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="-131.25" y="740" width="462.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-38" value="If lastName &quot;ZZZZ&quot;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-38" value="If lastName &quot;ZZZZ&quot;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="15" y="870" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y3VTPcnfJfB9KkL5hkbG-40" target="y3VTPcnfJfB9KkL5hkbG-41">
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y3VTPcnfJfB9KkL5hkbG-40" target="y3VTPcnfJfB9KkL5hkbG-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-40" value="endOfJob" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-40" value="endOfJob" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
+          <mxGeometry x="640" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y3VTPcnfJfB9KkL5hkbG-41" value="output &quot;Thank you for using this program" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
-          <mxGeometry x="595" y="250" width="190" height="60" as="geometry" />
+        <mxCell id="y3VTPcnfJfB9KkL5hkbG-41" value="output &quot;Thank you for using this program" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="597.5" y="240" width="205" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
