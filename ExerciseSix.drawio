@@ -278,13 +278,13 @@
         <mxCell id="bEkU1AH99YkD4TP8FKFF-83" value="No" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1330" y="610" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Cz30d_9PVH-dQxHBJe9-1" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bEkU1AH99YkD4TP8FKFF-63" target="bEkU1AH99YkD4TP8FKFF-64">
+        <mxCell id="5Cz30d_9PVH-dQxHBJe9-1" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;startFill=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bEkU1AH99YkD4TP8FKFF-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1500" y="430" as="sourcePoint" />
+            <mxPoint x="1380" y="610" as="sourcePoint" />
             <mxPoint x="1550" y="380" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="2050" y="610" />
               <mxPoint x="2050" y="522" />
-              <mxPoint x="2050" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
